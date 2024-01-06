@@ -21,7 +21,7 @@ Run Trigger.py to start listening for a specific hotkey combination (Ctrl+Shift+
 Press Ctrl+Shift+F to execute the capture and text extraction process.
 The text extracted from the selected screen area will be copied to the clipboard.
 
-### CaptureImproved.py
+CaptureImproved.py :
 This script handles the actual capture of the screen area.
 It utilizes tkinter for creating a GUI to select the screen area.
 PyAutoGUI is used for taking the screenshot of the selected area.
