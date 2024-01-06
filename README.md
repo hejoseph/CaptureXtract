@@ -12,10 +12,10 @@ Then the selected area will be created as an image :
 ![image_saved](demo_images/image_saved.png)
 
 Then the text on the image will be extracted and store on your clipboad, so then you can paste the text anywhere you want : 
+
 ![copy_paste](demo_images/copy_paste.png)
 
 ## Usage
-Running the Program
 
 Run Trigger.py to start listening for a specific hotkey combination (Ctrl+Shift+F by default).
 Press Ctrl+Shift+F to execute the capture and text extraction process.
